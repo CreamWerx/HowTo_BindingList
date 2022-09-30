@@ -87,5 +87,5 @@ namespace HowTo_BindingList
             return String;
         }
 
-            }
+    }
 }
